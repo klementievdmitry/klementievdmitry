@@ -1,6 +1,0 @@
-src - sources
-build - intermediate build files
-bin - release build files
-dist - changelog
-cmake - cmake modules
-include(s) - deps/headers
