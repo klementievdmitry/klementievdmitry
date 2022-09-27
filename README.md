@@ -1,6 +1,6 @@
 # Me
 
-👋 Hi, I’m @klementievdmitry
+👋 Hi, I’m @KlementievDmitry
 
 <!---
 MrDimache/MrDimache is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
